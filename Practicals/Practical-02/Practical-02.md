@@ -109,6 +109,10 @@ Start the Express server using:
 
     node server.js
 
+<p align="center">
+  <img src="images/server_running.png" width="500"><br><br>
+</p>
+
 Open a web browser and navigate to:
 
     http://localhost:3000
