@@ -41,16 +41,12 @@ To verify successful installation, open the terminal or command prompt and execu
 
 The displayed version numbers confirm that Node.js and npm are installed correctly.
 
----
-
 ### Step 2: Create Project Directory
 
 Create a new directory for the Express application and navigate into it:
 
     mkdir mean-app
     cd mean-app
-
----
 
 ### Step 3: Initialize npm
 
@@ -59,8 +55,6 @@ Initialize the Node.js project using npm:
     npm init -y
 
 This command generates a `package.json` file which stores project metadata and dependency information.
-
----
 
 ### Step 4: Install Express Framework
 
@@ -73,8 +67,6 @@ Install Express using npm:
 </p>
 
 This adds Express to the project dependencies.
-
----
 
 ### Step 5: Create Express Server
 
@@ -90,8 +82,6 @@ const app = express();
     app.listen(PORT, () => {
     console.log(Server running on port ${PORT});
     });
-
----
 
 ### Step 6: Run the Application
 
