@@ -31,7 +31,7 @@ To verify successful installation, open the terminal or command prompt and execu
     npm -v
 
 <p align="center">
-  <img src="images/node.png" width="600"><br><br>
+  <img src="images/node.png" width="500"><br><br>
 </p>
 
 The displayed version numbers confirm that Node.js and npm are installed correctly.
@@ -61,7 +61,7 @@ Install Express using npm:
     npm install express
 
 <p align="center">
-  <img src="images/project_creation.png" width="300"><br><br>
+  <img src="images/project_creation.png" width="500"><br><br>
 </p>
 
 This adds Express to the project dependencies.
