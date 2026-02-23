@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 
 # Experiment No. 1
 
-</p>
+</div>
 
 ## Aim
 
