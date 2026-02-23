@@ -1,5 +1,7 @@
 <p align="center">
-<b>Experiment No. 1</b>
+
+# Experiment No. 1
+
 </p>
 
 ## Aim
@@ -25,18 +27,16 @@ Express.js is a minimal and flexible Node.js web application framework that prov
 Download and install the LTS version of Node.js from the official Node.js website. During installation, npm is automatically installed along with Node.js.
 
 <p align="center">
-  <img src="images/node_download.png" style="width:600px; max-width:100%; display:block; margin:auto;"><br><br>
+  <img src="images/node_download.png" width="500"><br><br>
 </p>
 
 To verify successful installation, open the terminal or command prompt and execute:
 
-```bash
-node -v
-npm -v
-```
+    node -v
+    npm -v
 
 <p align="center">
-  <img src="images/node.png" style="width:600px; max-width:100%; display:block; margin:auto;"><br><br>
+  <img src="images/node.png" width="500"><br><br>
 </p>
 
 The displayed version numbers confirm that Node.js and npm are installed correctly.
@@ -69,7 +69,7 @@ Install Express using npm:
     npm install express
 
 <p align="center">
-  <img src="images/project_creation.png" style="width:600px; max-width:100%; display:block; margin:auto;"><br><br>
+  <img src="images/project_creation.png" width="500"><br><br>
 </p>
 
 This adds Express to the project dependencies.
@@ -100,13 +100,13 @@ Start the Express server using:
     node server.js
 
 <p align="center">
-  <img src="images/project_runing.png" style="width:600px; max-width:100%; display:block; margin:auto;"><br><br>
+  <img src="images/project_runing.png" width="500"><br><br>
 </p>
 
 Open a web browser and navigate to http://localhost:3000
 
 <p align="center">
-  <img src="images/output.png" style="width:600px; max-width:100%; display:block; margin:auto;"><br><br>
+  <img src="images/output.png" width="500"><br><br>
 </p>
 
 The displayed message confirms that Node.js, npm, and Express have been successfully configured.
